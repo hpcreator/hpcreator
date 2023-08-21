@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1w6Rl_iEdYl7qiQ6f--xXLj1k6YwdAME3/view"  />
+  <img height="200" src="https://avatars.githubusercontent.com/u/53334370?v=4"  />
 </div>
 
 ###
